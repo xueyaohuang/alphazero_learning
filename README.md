@@ -1,5 +1,5 @@
 # AlphaGO Zero
-
+.
 I rewrote the alphago zero code for 5 in a row game in the jupyter notebook. By doing that, it
 strength my understanding of the algorithm in some specific part.
 
